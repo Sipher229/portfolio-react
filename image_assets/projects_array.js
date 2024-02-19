@@ -2,7 +2,7 @@ export const  projects = [
     {
         path: new URL("./historica.jpg", import.meta.url).href,
         title: "Historica",
-        desc: "This Website allows the user to find events that that occured on a particular date in history. It fetches data from an API and presents it to the user in anorganised manner. The technologies used are javascript, ejs, jQuery, nodejs, html and css.",
+        desc: "This Website allows the user to find events that occured on a particular date in history. It fetches data from an API and presents it to the user in anorganised manner. The technologies used are javascript, ejs, jQuery, nodejs, html and css.",
         link: "https://github.com/Sipher229/Historica-app"
     },
     {
